@@ -39,21 +39,19 @@ Artisan Village is a React-based e-commerce website designed to showcase handcra
 ## Screenshots
 
 ### Home Page
-
-![Home Page](screenshots/home.png)
+![Home Page](./public/Screenshots/Home1.png)
+![Home Page](./public/Screenshots/Home.png)
+![Home Page](./public/Screenshots/Home3.png)
+![Home Page](./public/Screenshots/Home4.png)
 
 ### Products Page
-
-![Products Page](screenshots/products.png)
+![Products Page](./public/Screenshots/Poducts.png)
 
 ### About Page
-
-![About Page](screenshots/about.png)
+![About Page](./public/Screenshots/About.png)
 
 ### Contact Page
-
-![Contact Page](screenshots/contact.png)
-
+![Contact Page](./public/Screenshots/Contact.png)
 ## Author
 
 Mehak Jaiswal
