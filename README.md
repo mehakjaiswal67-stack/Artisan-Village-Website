@@ -3,5 +3,5 @@
 ![image alt](https://github.com/mehakjaiswal67-stack/Artisan-Village-Website/blob/fa8ba31815372902d50c0987b22b2702c50a5206/Screenshot%202026-06-10%20224443.png)
 ![image alt](https://github.com/mehakjaiswal67-stack/Artisan-Village-Website/blob/08da790a896f84f6de3e09745cc58e26eb470cd7/Screenshot%202026-06-10%20224450.png)
 ![image alt](https://github.com/mehakjaiswal67-stack/Artisan-Village-Website/blob/aca076a94e53bb0b3814f999a7b7dd3cdf09962f/Screenshot%202026-06-10%20224459.png)
-![image alt]()
+![image alt](https://github.com/mehakjaiswal67-stack/Artisan-Village-Website/blob/3612a0caf5f7bbf653774c0ef195d9f385e210e3/Screenshot%202026-06-10%20224507.png)
 ![image alt]()
