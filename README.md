@@ -1,4 +1,4 @@
-![image alt]()
+![image alt](https://github.com/mehakjaiswal67-stack/Artisan-Village-Website/blob/e7b33aebe0905323f4043418d82272373aa2dd78/home.png%20(3).png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
