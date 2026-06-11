@@ -1,5 +1,5 @@
 ![image alt](https://github.com/mehakjaiswal67-stack/Artisan-Village-Website/blob/e7b33aebe0905323f4043418d82272373aa2dd78/home.png%20(3).png)
-![image alt]()
+![image alt](https://github.com/mehakjaiswal67-stack/Artisan-Village-Website/blob/515ed276cba5d12a956e4aa1472f09f61e0eea5c/Screenshot%202026-06-11%20015655.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
